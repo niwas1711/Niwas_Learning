@@ -1,0 +1,16 @@
+{"e2EJenkinsProvisioning":
+{
+  "createdBy":"niwas.shashi@oracle.com",
+  "defaultJenkinsUserEmailId":"niwas.shashi@oracle.com",
+  "jenkinsExposedServiceNodePort":"30024",
+  "jenkinsInstanceName":"fmwk8s-e2e-jenkins",
+  "jenkinsVersion":"2.284",
+  "k8sMasterNodeHostName":"anchiagatest1.subnet2ad1phx.paasinfratoophx.oraclevcn.com",
+  "k8sMasterNodeIPAddress":"100.111.149.67",
+  "k8sNFSLocationPath":"/scratch/u01/DockerVolume",
+  "k8sToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IlRhOUZBSi1TLWl5ZndJRENzWnhhV0RCUmhqaGlRaGlyRWptS0szdzZVWGsifQ.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJrdWJlLXN5c3RlbSIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VjcmV0Lm5hbWUiOiJkZWZhdWx0LXRva2VuLTlrY2JwIiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9zZXJ2aWNlLWFjY291bnQubmFtZSI6ImRlZmF1bHQiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC51aWQiOiI5MTI3NjhmYS0xOTdmLTRiNmUtYjNmNC02NTQ1N2U2ZDdhNzEiLCJzdWIiOiJzeXN0ZW06c2VydmljZWFjY291bnQ6a3ViZS1zeXN0ZW06ZGVmYXVsdCJ9.hy77oebJo76SIby_i3ynoSQD_9uqAQGAq4bnGgffv3PCqECPjh9sdjQuvQOCN5xtgmZglqO8QJ6oXK6lIfOv9JiWrUxMApgAi0OJziB_cw061RDYXiEUq-kb05jjHOgQ5RfYXIVX5G2XBAymXYxe6K_XU61hycAnwtrkSLffKWgTpgqoqvp030at3oXK09Z6WG6Zg2YA90PwligeJGVaIluN47Qnx6GhP0gZkCtBieF5OS-KeQupvWeYTy8s6sOwswOfNWHPnnCg9v-F0ktzBLd6C2QZHHfhQHZdKUCmchoHyhiNNsfXVCpcLFQKmCads2akQJ7qyfqYWm-er7_qow",
+  "noProxy":"100.111.149.67",
+  "repoLink":"fmwk8s-dev.dockerhub-phx.oci.oraclecorp.com"
+}
+
+}
