@@ -8,6 +8,8 @@ public class LongestIncreasingsequence {
 			                     + longestincreaingsubseq( arr ) + "\n" );
   }
 
+
+
   public static int longestincreaingsubseq(int arr[]) {
     // formula == if(arr[j]<arr[i]
     // T[i]=max(t[i],t[j]+1);

@@ -6,15 +6,15 @@ public class CoinChange
 	{
   public static void main(String[] args) {
     //
-	  int arr[] = {1, 2, 3};
-
-	  int n = 4;
-	  System.out.println(leastCoins(arr, n));
+	  int arr[] = {2};
+//coins = [1,2,5], amount = 11
+	  int n = 3;
+	  System.out.println(leastCoinstop(arr, n));
   }
 
 
 
-		public int leastCoinstop(int[] coins, int amount) {
+		public static int  leastCoinstop(int[] coins, int amount) {
 			// This table will store the answer to our sub problems
 			int[] dp = new int[amount + 1];
 

@@ -9,6 +9,8 @@ public class AirTest
 	{
   public static void main(String[] args) {
     //
+	  java.util.Stack<String> st = new java.util.Stack<>();
+
 	  findevenodd(379);
     System.out.println();
   }

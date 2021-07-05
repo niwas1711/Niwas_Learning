@@ -8,6 +8,15 @@ import java.util.List;
 public class TavTest {
   public static void main(String[] args) {
 
+    char t='c';
+    System.out.println(t+1);
+    System.out.println(t-1);
+    char c=(char)100;
+    System.out.println("ccc"+c);
+
+    Integer.toString(Integer.parseInt(10+""),7);
+
+
     int[] arr1 = {1,97, 2, 3, 5};
 
     int[] arr2 = {1, 2, 3,767,3,4};

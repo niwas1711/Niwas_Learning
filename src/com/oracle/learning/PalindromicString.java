@@ -1,6 +1,7 @@
 package com.oracle.learning;
 
-public class PalindromicString {
+public class
+PalindromicString {
   public static void main(String[] args) {
     //
     palindromicString("Too hot to hoot");

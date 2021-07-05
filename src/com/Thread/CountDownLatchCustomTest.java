@@ -27,7 +27,7 @@ package com.Thread;
 public class CountDownLatchCustomTest {
 
 	public static void main(String[] args) {
-		CustomCountDownLatch countDownLatchCustom=new CustomCountDownLatch(3);
+		CustomCountDownLatch countDownLatchCustom=new CustomCountDownLatch(4);
 		System.out.println("CountDownLatch has been created with count=3");
 
 		new Thread(new MyRunnable(countDownLatchCustom),"Thread-1").start();
@@ -45,9 +45,6 @@ public class CountDownLatchCustomTest {
 	}
 
 }
-
-
-
 
 class MyRunnable implements Runnable{
 
